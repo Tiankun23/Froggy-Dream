@@ -1,4 +1,3 @@
-# Froggy-Dream
 echo "# Froggy-Dream" >> README.md
 git init
 git add README.md
